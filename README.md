@@ -35,4 +35,6 @@ The two paper-explainer video-course decks are separate from their related journ
 
 **Yi Teng / 滕毅** — coatings manufacturing process technology, dispersion and wet grinding, scale-up, equipment/process matching, process control and batch consistency.
 
-[LinkedIn](https://www.linkedin.com/in/ty777/) · [Engineering software](https://github.com/coatingprocesstech/Industrial-Vessel-Head-Calculator)
+- [ORCID](https://orcid.org/0009-0009-9922-9588)
+- [LinkedIn](https://www.linkedin.com/in/ty777/)
+- [Engineering software](https://github.com/coatingprocesstech/Industrial-Vessel-Head-Calculator)

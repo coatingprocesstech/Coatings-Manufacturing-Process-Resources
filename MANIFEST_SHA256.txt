@@ -1,0 +1,17 @@
+# SHA-256 manifest for each distinct PDF in this package
+# All five publisher-issued journal PDFs are preserved byte-for-byte.
+f895f744f2f37b6a4a63e5239e2ffc35f01467f0a58f0a539f49990c481c3751  01-presentations-and-training/01-manufacturing-systems/M01_precision-manufacturing_CN.pdf
+5bb7e13d816e1fea3dab6b3a8009476ed28f07234625ebf9facb28955f842450  01-presentations-and-training/01-manufacturing-systems/M05_ringier-summit-2025_competition-trends_CN.pdf
+2bac663c1464ce17691450065efbca5e3f59ed51f22af0f30638ac402ea2178b  01-presentations-and-training/01-manufacturing-systems/M06_songjing-technical-conference-2026_smart-manufacturing_CN.pdf
+45e44435336dcbdd0b156d4edd142664eceac3f394eb77a53a7e0491eafb451c  01-presentations-and-training/01-manufacturing-systems/M07_ringier-summit-2026_smart-manufacturing_CN.pdf
+f0a459ae8963628bc7e254dfc1922b9309722ea684315223bcb57452f5394ff8  01-presentations-and-training/02-dispersion-and-wet-grinding/M02_pigment-dispersion-high-speed-disperser_CN.pdf
+8bd43d1e09c8ae112758463ed84e1649bb68350b5d3be0368069bc5117dd322d  01-presentations-and-training/02-dispersion-and-wet-grinding/M03_wet-grinding-equipment_CN.pdf
+dd8f6433caa745c1a770ddc18a172184d97ccb1fe552a7847729da0d3e73c6dc  01-presentations-and-training/03-waterborne-coatings/M04_waterborne-coatings-manufacturing_CN.pdf
+8e736abe48d2848bf52e2eff2df41522f865aab78bfa744478cf436f2ddd0c11  01-presentations-and-training/04-cost-and-production-efficiency/M08_cost-reduction-raw-material-price-pressure_CN.pdf
+f8cb3d57dec12497513bd5880c865e573218a1ebd3a1e4b7e0998c683b09fa44  02-journal-paper-explainer-video-courses/V01_digital-transformation-paper-explainer/V01_digital-transformation-paper-explainer_CN.pdf
+0404618453ab7039ea4bd581d2ba9598ed95e286d23208bc26af4a9234d6b6b1  02-journal-paper-explainer-video-courses/V02_bead-mill-media-motion-paper-explainer/V02_bead-mill-media-motion-paper-explainer_CN.pdf
+06843921b814d6cf9b2a1f3e555266c2c7e41b54740b9c69e65ebeb12dee2f32  03-published-papers/P01_2026-digital-transformation-strategy/P01_2026-digital-transformation-strategy_publisher-original_CN.pdf
+03c65cea55d2ad3eab298f9da6b2d70703e28253ee38208929a46c7caaafee51  03-published-papers/P02_2026-voc-exempt-solvents/P02_2026-voc-exempt-solvents_publisher-original_CN.pdf
+d0f67a33842401797f4dd71c11c21e34554fc11828e2a96f253c38a1f9cbb9bb  03-published-papers/P03_2025-dcs-in-coatings-production/P03_2025-dcs-in-coatings-production_publisher-original_CN.pdf
+168e615590ee2779fdf1efa0ba570555f94184fdbdc6ae1a0845dfd45b096aab  03-published-papers/P04_2025-electrostatic-risk-flammable-liquids/P04_2025-electrostatic-risk-flammable-liquids_publisher-original_CN.pdf
+e502413febdebc2c00963087b31e84418113a50d9c32d7f0850dd845135b9dfe  03-published-papers/P05_2025-bead-mill-media-motion/P05_2025-bead-mill-media-motion_publisher-original_CN.pdf

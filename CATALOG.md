@@ -54,3 +54,9 @@ One row represents one resource, not one file format. PDF is the preferred publi
 | ID | 中文标题 | English title | Type | Date | Pages | PDF / Link |
 |---|---|---|---|---|---:|---|
 | E01 | Industrial Vessel Head Calculator | Industrial Vessel Head Calculator | Bilingual Windows engineering utility / 中英文 Windows 工程软件 | Release 1.0.1 published 2026-10 |  | [GitHub](https://github.com/coatingprocesstech/Industrial-Vessel-Head-Calculator/releases/tag/v1.0.1) |
+
+## Patents / 专利
+
+| ID | 中文标题 | English title | Type | Date | Pages | Patent record / 专利记录 |
+|---|---|---|---|---|---:|---|
+| PAT01 | 一种磁力驱动卧式研磨机 | Magnetically Driven Horizontal Grinding Mill | Chinese utility model patent / 中国实用新型专利 | 2023-01-03 (grant publication) | — | [Details / 专利介绍](05-patents/README.md) · [CN218190020U](https://patents.google.com/patent/CN218190020U/zh) |

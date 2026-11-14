@@ -2,9 +2,9 @@
 
 ## 涂料制造工艺技术 · Public Technical Resource Library
 
-A curated collection of public lectures, conference presentations, journal-arranged paper-explainer video courses, published papers and engineering resources by **Yi Teng (滕毅)**.
+A curated collection of public lectures, conference presentations, journal-arranged paper-explainer video courses, published papers, a granted patent and engineering resources by **Yi Teng (滕毅)**.
 
-本资料库整理滕毅在涂料制造领域的公开课程、会议演讲、期刊编辑部安排的论文讲解视频课、正式发表论文及工程工具。
+本资料库整理滕毅在涂料制造领域的公开课程、会议演讲、期刊编辑部安排的论文讲解视频课、正式发表论文、授权专利及工程工具。
 
 **The source materials are mainly in Chinese.** Each resource has an English title, concise English overview and searchable technical keywords. These are discovery summaries, not full translations.
 
@@ -18,6 +18,7 @@ A curated collection of public lectures, conference presentations, journal-arran
 - [Journal-arranged paper-explainer video courses / 期刊论文讲解视频课](02-journal-paper-explainer-video-courses/README.md)
 - [Published papers / 正式发表论文](03-published-papers/README.md)
 - [Engineering resources / 工程工具](04-engineering-tools/README.md)
+- [Patents / 专利](05-patents/README.md)
 - [Rights and citation / 权利与引用](RIGHTS_AND_CITATION.md)
 - [SHA-256 manifest / 文件校验清单](MANIFEST_SHA256.txt)
 

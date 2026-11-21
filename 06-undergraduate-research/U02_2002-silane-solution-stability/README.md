@@ -2,8 +2,10 @@
 
 **Resource ID / 编号:** U02  
 **English reference translation / 英文参考译名:** Study on Improving the Stability of Silane Reagent Solutions  
-**Original English title / 原刊英文题名:** IMPROVING THE STABILITY OF ADDITIVES OF SILANE AGENT SOLUTION APPLIED TO METALLIC SURFACE TREATMENT
-**Journal / 期刊:** 腐蚀与防护, 2002, 23(5)
+**Original English title / 原刊英文题名:** IMPROVING THE STABILITY OF ADDITIVES OF SILANE AGENT SOLUTION APPLIED TO METALLIC SURFACE TREATMENT  
+**Journal / 期刊:** 腐蚀与防护, 2002, 23(5)  
+**Journal pages / 期刊页码:** 193–195  
+**PDF pages / PDF页数:** 3  
 **Authors / 作者 (original order):** 徐溢、滕毅、唐守渊  
 **Yi Teng's authorship / 滕毅署名:** 2nd / 第二作者  
 **Category:** Undergraduate research — subsequent co-authored publication / 本科研究后续合作发表论文

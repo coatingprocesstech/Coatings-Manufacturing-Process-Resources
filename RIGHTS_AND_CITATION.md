@@ -14,6 +14,12 @@ The five original journal-issued PDFs are included exactly as supplied by the au
 
 五篇正式发表论文均按作者提供的期刊发行版 PDF 原样收录。作者确认编辑部已同意公开发布。所有文件未进行编辑、压缩、裁剪、重新排版或内容修改。SHA-256 校验值见 `MANIFEST_SHA256.txt`。
 
+## Undergraduate research journal papers / 本科阶段研究后续论文
+
+The four co-authored papers published in 2001–2002 are part of Yi Teng's personal academic portfolio, related to undergraduate research performed during 1999–2000. Yi Teng has confirmed permission for their use in personal academic promotion. The original journal PDFs are provided without obscuring journal identity, author information or publication content. This record does not assert ownership of the journal's copyright or grant others a blanket licence to redistribute the PDFs.
+
+2001—2002年发表的四篇合作论文与滕毅1999—2000年开展的本科研究有关，用于其个人学术成果展示。滕毅已确认此用途符合其所咨询的相关要求。所收录期刊 PDF 不遮挡期刊信息、作者署名或论文正文。本说明不主张期刊著作权归个人所有，也不授予第三方统一转载许可。
+
 ## Citation practice / 引用方式
 
 Cite the author(s), exact Chinese title, journal or event, date and page range where available. For presentations, identify the event. For papers, use the journal citation in the corresponding resource page.

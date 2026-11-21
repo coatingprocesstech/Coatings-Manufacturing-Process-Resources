@@ -23,10 +23,10 @@ The publication dates below refer to the journal issues, not to the date when th
 
 | No. | Paper / 论文 | Journal / 期刊 | Authors / 作者 | Yi Teng's position / 滕毅署名顺序 |
 |---|---|---|---|---:|
-| 1 | 金属表面处理用硅烷试剂的水解与缩聚 | 重庆大学学报（自然科学版）, 2002年第10期, pp. 54–56 | 徐溢、唐守渊、滕毅、张晓凤 | 3rd / 第三 |
-| 2 | 提高硅烷试剂溶液稳定性的研究 | 腐蚀与防护, 2002, 23(5), 193–195 | 徐溢、滕毅、唐守渊 | 2nd / 第二 |
-| 3 | 硅烷试剂防腐蚀工艺研究 | 材料保护, 2001, 34(11), 32–33 | 王楠、徐溢、杨立华、滕毅 | 4th / 第四 |
-| 4 | 硅烷偶联剂应用现状及金属表面处理新应用 | 表面技术, 2001, 30(3), 48–51 | 徐溢、滕毅、徐铭熙 | 2nd / 第二 |
+| 1 | [金属表面处理用硅烷试剂的水解与缩聚](U01_2002-silane-hydrolysis-condensation/README.md) | 重庆大学学报（自然科学版）, 2002年第10期, pp. 54–56 | 徐溢、唐守渊、滕毅、张晓凤 | 3rd / 第三 |
+| 2 | [提高硅烷试剂溶液稳定性的研究](U02_2002-silane-solution-stability/README.md) | 腐蚀与防护, 2002, 23(5), 193–195 | 徐溢、滕毅、唐守渊 | 2nd / 第二 |
+| 3 | [硅烷试剂防腐蚀工艺研究](U03_2001-silane-corrosion-process/README.md) | 材料保护, 2001, 34(11), 32–33 | 王楠、徐溢、杨立华、滕毅 | 4th / 第四 |
+| 4 | [硅烷偶联剂应用现状及金属表面处理新应用](U04_2001-silane-coupling-agent-applications/README.md) | 表面技术, 2001, 30(3), 48–51 | 徐溢、滕毅、徐铭熙 | 2nd / 第二 |
 
 ## Research collaboration / 研究合作背景
 
@@ -36,9 +36,9 @@ One of the related papers, “硅烷试剂防腐蚀工艺研究” (《材料保
 
 ## Record scope and rights / 记录范围与版权说明
 
-This page documents the undergraduate research background and the bibliographic details of the subsequent co-authored papers. The journal PDFs supplied for verification are not included in this public repository. Any future redistribution of full-text journal PDFs will require confirmation of the relevant publication rights.
+This page documents the undergraduate research background and the bibliographic details of the subsequent co-authored papers. Yi Teng has confirmed that the four journal PDFs may be used in his public personal academic portfolio. The original journal files are documented with SHA-256 checksums; each individual resource page provides the PDF link. The journal and other rights holders retain their respective rights, and no blanket reuse licence is granted.
 
-本页面用于记录本科阶段研究背景及后续合作发表论文的书目信息。本次用于核对的期刊 PDF 暂不上传至公开仓库。今后如需公开传播论文全文，须先确认相应出版版权及授权情况。
+本页面用于记录本科阶段研究背景及后续合作发表论文的书目信息。滕毅已确认四篇期刊论文可用于其公开个人学术成果展示；各论文说明页提供原文 PDF 链接和 SHA-256 校验信息。期刊及其他权利人仍保留其相应权利，本仓库不授予统一的转载或再利用许可。
 
 ---
 

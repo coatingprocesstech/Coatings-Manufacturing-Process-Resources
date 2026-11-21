@@ -2,8 +2,8 @@
 
 **Resource ID / 编号:** U01  
 **English reference translation / 英文参考译名:** Hydrolysis and Condensation of Silane Reagents for Metal Surface Treatment  
-**Original English title / 原刊英文题名:** Not printed in the supplied original journal PDF / 所提供的原刊 PDF 未刊载英文题名  
-**Journal / 期刊:** 重庆大学学报（自然科学版）, 2002, 25(10), 54–56  
+**Original English title / 原刊英文题名:** Hydrolysis and Condensation of Silane Agent for Metallic Surface Treatment
+**Journal / 期刊:** 重庆大学学报（自然科学版）, 2002, 25(10)
 **Authors / 作者 (original order):** 徐溢、唐守渊、滕毅、张晓凤  
 **Yi Teng's authorship / 滕毅署名:** 3rd / 第三作者  
 **Category:** Undergraduate research — subsequent co-authored publication / 本科研究后续合作发表论文

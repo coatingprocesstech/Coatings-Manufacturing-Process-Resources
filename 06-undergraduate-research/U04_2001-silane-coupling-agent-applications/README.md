@@ -2,8 +2,8 @@
 
 **Resource ID / 编号:** U04  
 **English reference translation / 英文参考译名:** Current Applications of Silane Coupling Agents and New Applications in Metal Surface Treatment  
-**Original English title / 原刊英文题名:** Study on Silane Agents and its New Application for Metal Surface Treatment  
-**Journal / 期刊:** 表面技术, 2001, 30(3), 48–51  
+**Original English title / 原刊英文题名:** Study on Silane Agents and its New Application for Metal Surface Treatment
+**Journal / 期刊:** 表面技术, 2001, 30(3)
 **Authors / 作者 (original order):** 徐溢、滕毅、徐铭熙  
 **Yi Teng's authorship / 滕毅署名:** 2nd / 第二作者  
 **Category:** Undergraduate research — subsequent co-authored publication / 本科研究后续合作发表论文

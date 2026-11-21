@@ -29,7 +29,7 @@ The journal page ranges below refer to the page numbers printed in each journal 
 |---|---|---|---|---|---|---:|---|---:|
 | 1 | [金属表面处理用硅烷试剂的水解与缩聚](U01_2002-silane-hydrolysis-condensation/README.md) | Hydrolysis and Condensation of Silane Reagents for Metal Surface Treatment | Hydrolysis and Condensation of Silane Agent for Metallic Surface Treatment | 重庆大学学报（自然科学版）, 2002, 25(10) | 72–74 | 3 | 徐溢、唐守渊、滕毅、张晓凤 | 3rd / 第三 |
 | 2 | [提高硅烷试剂溶液稳定性的研究](U02_2002-silane-solution-stability/README.md) | Study on Improving the Stability of Silane Reagent Solutions | IMPROVING THE STABILITY OF ADDITIVES OF SILANE AGENT SOLUTION APPLIED TO METALLIC SURFACE TREATMENT | 腐蚀与防护, 2002, 23(5) | 193–195 | 3 | 徐溢、滕毅、唐守渊 | 2nd / 第二 |
-| 3 | [硅烷试剂防腐蚀工艺研究](U03_2001-silane-corrosion-process/README.md) | Study on the Anti-corrosion Process Using Silane Reagents | Not printed in supplied journal PDF / 原刊未刊载 | 材料保护, 2001, 34(11) | 32–33 | 2 | 王楠、徐溢、杨立华、滕毅 | 4th / 第四 |
+| 3 | [硅烷试剂防腐蚀工艺研究](U03_2001-silane-corrosion-process/README.md) | Study on the Anti-corrosion Process Using Silane Reagents | Not printed in the supplied original journal PDF / 所提供的原刊 PDF 未刊载英文题名 | 材料保护, 2001, 34(11) | 32–33 | 2 | 王楠、徐溢、杨立华、滕毅 | 4th / 第四 |
 | 4 | [硅烷偶联剂应用现状及金属表面处理新应用](U04_2001-silane-coupling-agent-applications/README.md) | Current Applications of Silane Coupling Agents and New Applications in Metal Surface Treatment | Study on Silane Agents and its New Application for Metal Surface Treatment | 表面技术, 2001, 30(3) | 48–51 | 4 | 徐溢、滕毅、徐铭熙 | 2nd / 第二 |
 ## Research collaboration / 研究合作背景
 

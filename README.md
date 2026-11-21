@@ -17,9 +17,9 @@ A curated collection of public lectures, conference presentations, journal-arran
 - [Presentations and training / 公开演讲与课程](01-presentations-and-training/README.md)
 - [Journal-arranged paper-explainer video courses / 期刊论文讲解视频课](02-journal-paper-explainer-video-courses/README.md)
 - [Published papers / 正式发表论文](03-published-papers/README.md)
-- [Undergraduate research / 本科阶段研究](06-undergraduate-research/README.md)
 - [Engineering resources / 工程工具](04-engineering-tools/README.md)
 - [Patents / 专利](05-patents/README.md)
+- [Undergraduate research / 本科阶段研究](06-undergraduate-research/README.md)
 - [Rights and citation / 权利与引用](RIGHTS_AND_CITATION.md)
 - [SHA-256 manifest / 文件校验清单](MANIFEST_SHA256.txt)
 

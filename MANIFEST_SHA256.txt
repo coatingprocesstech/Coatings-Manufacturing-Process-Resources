@@ -15,3 +15,8 @@ f8cb3d57dec12497513bd5880c865e573218a1ebd3a1e4b7e0998c683b09fa44  02-journal-pap
 d0f67a33842401797f4dd71c11c21e34554fc11828e2a96f253c38a1f9cbb9bb  03-published-papers/P03_2025-dcs-in-coatings-production/P03_2025-dcs-in-coatings-production_publisher-original_CN.pdf
 168e615590ee2779fdf1efa0ba570555f94184fdbdc6ae1a0845dfd45b096aab  03-published-papers/P04_2025-electrostatic-risk-flammable-liquids/P04_2025-electrostatic-risk-flammable-liquids_publisher-original_CN.pdf
 e502413febdebc2c00963087b31e84418113a50d9c32d7f0850dd845135b9dfe  03-published-papers/P05_2025-bead-mill-media-motion/P05_2025-bead-mill-media-motion_publisher-original_CN.pdf
+# Undergraduate research co-authored journal scans (2001–2002), supplied unchanged
+f345d63685d92df5eee63c13723ef03c8ff46e9782f5ff11d2d09077b1ed94ba  06-undergraduate-research/U01_2002-silane-hydrolysis-condensation/U01_2002-silane-hydrolysis-condensation_journal-original_CN.pdf
+769b157487b13d4e06a73256a2e4be7f2437798c08df88341ede26737e28a9ad  06-undergraduate-research/U02_2002-silane-solution-stability/U02_2002-silane-solution-stability_journal-original_CN.pdf
+8c7667f411b3b65b1c390a1f313307e52f80103167c5ea802739a644144b70df  06-undergraduate-research/U03_2001-silane-corrosion-process/U03_2001-silane-corrosion-process_journal-original_CN.pdf
+c57105ba019700eb2adc28482e7691ef435b14860803bac082a5849cdbab2ee3  06-undergraduate-research/U04_2001-silane-coupling-agent-applications/U04_2001-silane-coupling-agent-applications_journal-original_CN.pdf

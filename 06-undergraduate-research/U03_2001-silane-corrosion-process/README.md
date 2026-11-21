@@ -1,7 +1,8 @@
 # 硅烷试剂防腐蚀工艺研究
 
 **Resource ID / 编号:** U03  
-**English discovery title / 英文检索标题:** Study of Corrosion Protection Processes Using Silane Agents  
+**English reference translation / 英文参考译名:** Study on the Anti-corrosion Process Using Silane Reagents  
+**Original English title / 原刊英文题名:** Not printed in the supplied original journal PDF / 所提供的原刊 PDF 未刊载英文题名  
 **Journal / 期刊:** 材料保护, 2001, 34(11), 32–33  
 **Authors / 作者 (original order):** 王楠、徐溢、杨立华、滕毅  
 **Yi Teng's authorship / 滕毅署名:** 4th / 第四作者  
@@ -11,9 +12,9 @@
 
 [Open original PDF / 打开期刊论文原件](U03_2001-silane-corrosion-process_journal-original_CN.pdf)
 
-Original Chinese journal PDF preserved without changing the publication name, content or author information. The English discovery title is a search description unless it matches an English title in the journal.
+The original Chinese journal PDF is preserved without changing its title, content or author information. The English reference translation is provided for identification and search only. Where the journal printed an English title, it is recorded separately above.
 
-原始期刊 PDF 保留原有期刊名称、文章内容及作者署名。英文检索标题用于便于检索，若与期刊英文原标题不同，应以原刊为准。
+原始期刊 PDF 保留原有题名、文章内容及作者署名。英文参考译名仅用于资料识别和检索；如原刊印有英文题名，则单独记录在上方。
 
 **SHA-256:** `8c7667f411b3b65b1c390a1f313307e52f80103167c5ea802739a644144b70df`
 
@@ -21,8 +22,8 @@ Original Chinese journal PDF preserved without changing the publication name, co
 
 金属前处理、硅烷处理液配制与老化条件，以及与磷化处理的性能比较。
 
-This paper is related to the undergraduate graduation research conducted at Chongqing University from September 1999 to before April 2000. The journal publication date is 2001 or 2002, not the date of the original experiments.
+The undergraduate research at Chongqing University was conducted from September 1999 to before April 2000. This paper was subsequently published in 2001.
 
-这篇论文与1999年9月至2000年4月之前在重庆大学开展的本科毕业设计实验研究有关。期刊于2001或2002年发表，与实验开展时间不同。
+本科阶段研究于1999年9月至2000年4月之前在重庆大学开展；本论文于2001年正式发表。
 
 [Back to undergraduate research / 返回本科研究目录](../README.md)

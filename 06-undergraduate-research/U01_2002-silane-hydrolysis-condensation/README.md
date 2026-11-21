@@ -1,7 +1,8 @@
 # 金属表面处理用硅烷试剂的水解与缩聚
 
 **Resource ID / 编号:** U01  
-**English discovery title / 英文检索标题:** Hydrolysis and Condensation of Silane Agents for Metal Surface Treatment  
+**English reference translation / 英文参考译名:** Hydrolysis and Condensation of Silane Reagents for Metal Surface Treatment  
+**Original English title / 原刊英文题名:** Not printed in the supplied original journal PDF / 所提供的原刊 PDF 未刊载英文题名  
 **Journal / 期刊:** 重庆大学学报（自然科学版）, 2002, 25(10), 54–56  
 **Authors / 作者 (original order):** 徐溢、唐守渊、滕毅、张晓凤  
 **Yi Teng's authorship / 滕毅署名:** 3rd / 第三作者  
@@ -11,9 +12,9 @@
 
 [Open original PDF / 打开期刊论文原件](U01_2002-silane-hydrolysis-condensation_journal-original_CN.pdf)
 
-Original Chinese journal PDF preserved without changing the publication name, content or author information. The English discovery title is a search description unless it matches an English title in the journal.
+The original Chinese journal PDF is preserved without changing its title, content or author information. The English reference translation is provided for identification and search only. Where the journal printed an English title, it is recorded separately above.
 
-原始期刊 PDF 保留原有期刊名称、文章内容及作者署名。英文检索标题用于便于检索，若与期刊英文原标题不同，应以原刊为准。
+原始期刊 PDF 保留原有题名、文章内容及作者署名。英文参考译名仅用于资料识别和检索；如原刊印有英文题名，则单独记录在上方。
 
 **SHA-256:** `f345d63685d92df5eee63c13723ef03c8ff46e9782f5ff11d2d09077b1ed94ba`
 
@@ -21,8 +22,8 @@ Original Chinese journal PDF preserved without changing the publication name, co
 
 硅烷试剂的水解与缩聚、溶液稳定性以及温度、pH、溶剂和添加剂等影响因素。
 
-This paper is related to the undergraduate graduation research conducted at Chongqing University from September 1999 to before April 2000. The journal publication date is 2001 or 2002, not the date of the original experiments.
+The undergraduate research at Chongqing University was conducted from September 1999 to before April 2000. This paper was subsequently published in 2002.
 
-这篇论文与1999年9月至2000年4月之前在重庆大学开展的本科毕业设计实验研究有关。期刊于2001或2002年发表，与实验开展时间不同。
+本科阶段研究于1999年9月至2000年4月之前在重庆大学开展；本论文于2002年正式发表。
 
 [Back to undergraduate research / 返回本科研究目录](../README.md)

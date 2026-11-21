@@ -50,12 +50,16 @@ Research and experimental work was conducted at Chongqing University during Sept
 
 [Undergraduate research overview / 本科研究背景](06-undergraduate-research/README.md)
 
-| ID | 中文标题 | English discovery title | Type | Journal date | Pages | Details / PDF |
-|---|---|---|---|---|---:|---|
-| U01 | 金属表面处理用硅烷试剂的水解与缩聚 | Hydrolysis and Condensation of Silane Agents for Metal Surface Treatment | Co-authored journal paper / 合作发表论文 | 2002-10 | 3 | [Details / 全文](06-undergraduate-research/U01_2002-silane-hydrolysis-condensation/README.md) |
-| U02 | 提高硅烷试剂溶液稳定性的研究 | Improving the Stability of Silane Agent Solutions for Metallic Surface Treatment | Co-authored journal paper / 合作发表论文 | 2002-05 | 3 | [Details / 全文](06-undergraduate-research/U02_2002-silane-solution-stability/README.md) |
-| U03 | 硅烷试剂防腐蚀工艺研究 | Study of Corrosion Protection Processes Using Silane Agents | Co-authored journal paper / 合作发表论文 | 2001-11 | 2 | [Details / 全文](06-undergraduate-research/U03_2001-silane-corrosion-process/README.md) |
-| U04 | 硅烷偶联剂应用现状及金属表面处理新应用 | Study on Silane Agents and Its New Application for Metal Surface Treatment | Co-authored journal paper / 合作发表论文 | 2001-06 | 4 | [Details / 全文](06-undergraduate-research/U04_2001-silane-coupling-agent-applications/README.md) |
+English reference translations are provided for identification and search only. Original English titles are listed separately only where they appear in the supplied journal PDFs.
+
+英文参考译名仅用于资料识别和检索；只有在所提供的原刊 PDF 中确实印有英文题名时，才单独列出原刊英文题名。
+
+| ID | 中文标题 | English reference translation / 英文参考译名 | Original English title (journal) / 原刊英文题名 | Type | Journal date | Pages | Details / PDF |
+|---|---|---|---|---|---|---:|---|
+| U01 | 金属表面处理用硅烷试剂的水解与缩聚 | Hydrolysis and Condensation of Silane Reagents for Metal Surface Treatment | Not printed in supplied journal PDF / 原刊未刊载 | Co-authored journal paper / 合作发表论文 | 2002-10 | 3 | [Details / 全文](06-undergraduate-research/U01_2002-silane-hydrolysis-condensation/README.md) |
+| U02 | 提高硅烷试剂溶液稳定性的研究 | Study on Improving the Stability of Silane Reagent Solutions | IMPROVING THE STABILITY OF ADDITIVES OF SILANE AGENT SOLUTION APPLIED TO METALLIC SURFACE TREATMENT | Co-authored journal paper / 合作发表论文 | 2002-05 | 3 | [Details / 全文](06-undergraduate-research/U02_2002-silane-solution-stability/README.md) |
+| U03 | 硅烷试剂防腐蚀工艺研究 | Study on the Anti-corrosion Process Using Silane Reagents | Not printed in supplied journal PDF / 原刊未刊载 | Co-authored journal paper / 合作发表论文 | 2001-11 | 2 | [Details / 全文](06-undergraduate-research/U03_2001-silane-corrosion-process/README.md) |
+| U04 | 硅烷偶联剂应用现状及金属表面处理新应用 | Current Applications of Silane Coupling Agents and New Applications in Metal Surface Treatment | Study on Silane Agents and its New Application for Metal Surface Treatment | Co-authored journal paper / 合作发表论文 | 2001-06 | 4 | [Details / 全文](06-undergraduate-research/U04_2001-silane-coupling-agent-applications/README.md) |
 
 ## Journal-arranged paper-explainer video courses / 期刊编辑部安排的论文讲解视频课
 

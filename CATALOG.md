@@ -42,6 +42,21 @@ One row represents one resource, not one file format. PDF is the preferred publi
 | P04 | 高流速下易燃液体的静电积聚风险控制 | Risk Control of Electrostatic Charge Accumulation in Flammable Liquids at High Flow Rates | Published journal paper / 正式发表论文 | 2025-01 | 4 | [PDF](03-published-papers/P04_2025-electrostatic-risk-flammable-liquids/P04_2025-electrostatic-risk-flammable-liquids_publisher-original_CN.pdf) |
 | P05 | 从动力学与流变学视角分析砂磨机中研磨介质的运动机制 | Analysis of Grinding Media Motion Mechanisms in Bead Mills from the Perspective of Dynamics and Rheology | Published journal paper / 正式发表论文 | 2025-09 | 5 | [PDF](03-published-papers/P05_2025-bead-mill-media-motion/P05_2025-bead-mill-media-motion_publisher-original_CN.pdf) |
 
+## Undergraduate research and subsequent papers / 本科阶段研究及后续合作论文
+
+Research and experimental work was conducted at Chongqing University during September 1999 to before April 2000. The journal publication dates below are from 2001–2002. These co-authored papers are indexed separately from the later professional publications.
+
+本科毕业设计相关实验于1999年9月至2000年4月之前在重庆大学开展。下列论文于2001—2002年发表，单独归档，不与后续职业阶段论文混同。
+
+[Undergraduate research overview / 本科研究背景](06-undergraduate-research/README.md)
+
+| ID | 中文标题 | English discovery title | Type | Journal date | Pages | Details / PDF |
+|---|---|---|---|---|---:|---|
+| U01 | 金属表面处理用硅烷试剂的水解与缩聚 | Hydrolysis and Condensation of Silane Agents for Metal Surface Treatment | Co-authored journal paper / 合作发表论文 | 2002-10 | 3 | [Details / 全文](06-undergraduate-research/U01_2002-silane-hydrolysis-condensation/README.md) |
+| U02 | 提高硅烷试剂溶液稳定性的研究 | Improving the Stability of Silane Agent Solutions for Metallic Surface Treatment | Co-authored journal paper / 合作发表论文 | 2002-05 | 3 | [Details / 全文](06-undergraduate-research/U02_2002-silane-solution-stability/README.md) |
+| U03 | 硅烷试剂防腐蚀工艺研究 | Study of Corrosion Protection Processes Using Silane Agents | Co-authored journal paper / 合作发表论文 | 2001-11 | 2 | [Details / 全文](06-undergraduate-research/U03_2001-silane-corrosion-process/README.md) |
+| U04 | 硅烷偶联剂应用现状及金属表面处理新应用 | Study on Silane Agents and Its New Application for Metal Surface Treatment | Co-authored journal paper / 合作发表论文 | 2001-06 | 4 | [Details / 全文](06-undergraduate-research/U04_2001-silane-coupling-agent-applications/README.md) |
+
 ## Journal-arranged paper-explainer video courses / 期刊编辑部安排的论文讲解视频课
 
 | ID | 中文标题 | English title | Type | Date | Pages | PDF / Link |

@@ -2,8 +2,10 @@
 
 **Resource ID / 编号:** U03  
 **English reference translation / 英文参考译名:** Study on the Anti-corrosion Process Using Silane Reagents  
-**Original English title / 原刊英文题名:** Not printed in the supplied original journal PDF / 所提供的原刊 PDF 未刊载英文题名
-**Journal / 期刊:** 材料保护, 2001, 34(11)
+**Original English title / 原刊英文题名:** Not printed in the supplied original journal PDF / 所提供的原刊 PDF 未刊载英文题名  
+**Journal / 期刊:** 材料保护, 2001, 34(11)  
+**Journal pages / 期刊页码:** 32–33  
+**PDF pages / PDF页数:** 2  
 **Authors / 作者 (original order):** 王楠、徐溢、杨立华、滕毅  
 **Yi Teng's authorship / 滕毅署名:** 4th / 第四作者  
 **Category:** Undergraduate research — subsequent co-authored publication / 本科研究后续合作发表论文
